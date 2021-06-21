@@ -2,7 +2,7 @@
 
 management plants.
 
-<img src="./assets/printscreen.png" width="450" height="800"/>
+<img src="./assets/printscreen.png" width="450" height="850"/>
 
 
 
