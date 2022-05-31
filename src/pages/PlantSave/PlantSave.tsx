@@ -9,7 +9,7 @@ import {
   ScrollView,
 } from "react-native";
 import { useNavigation, useRoute } from "@react-navigation/native";
-import AsyncStorage from "@react-native-community/async-storage";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import DateTimePicker, { Event } from "@react-native-community/datetimepicker";
 import { isBefore, format } from "date-fns";
 import { SvgFromUri } from "react-native-svg";
