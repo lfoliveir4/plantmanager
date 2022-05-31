@@ -2,7 +2,7 @@ import React, { ReactElement, useState, useEffect, useCallback } from "react";
 import { View, Text, Image, Alert } from "react-native";
 import { FlatList } from "react-native-gesture-handler";
 import { format, formatDistance } from "date-fns";
-import AsyncStorage from "@react-native-community/async-storage";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 import Header from "../../components/Header";
 import PlantCard from "../../components/PlantCard";
